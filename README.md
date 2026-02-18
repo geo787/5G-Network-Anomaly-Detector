@@ -76,7 +76,7 @@ Demonstrates real-world software engineering practices aligned with Nokia's R&D 
 ### Prerequisites
 - CMake 3.14+
 - C++17 compiler (GCC 9+ / MSVC 2019+)
-- Python 3.11+ with `matplotlib`
+- Python 3.11+ with `matplotlib.`
 
 ### Build
 ```bash
@@ -102,7 +102,7 @@ python python/analyze.py
 
 ### Docker
 ```bash
-docker build -t 5g-anomaly-detector .
+docker build -t 5g-anomaly-detector.
 docker run 5g-anomaly-detector
 ```
 
