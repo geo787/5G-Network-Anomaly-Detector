@@ -127,5 +127,5 @@ config.window_size_sec      = 10;     // sliding window
 
 ---
 
-*Built by Roberta Barba — Cybersecurity Analyst & Python Developer*  
+*Built by Roberta Barba — Cybersecurity Analyst & Software Engineer*  
 *LinkedIn: linkedin.com/in/roberta-barba-5b99261b5*
